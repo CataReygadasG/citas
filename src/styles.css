@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    /*background-image: url("./../assets/flower.jpg");*/
+    /*background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)) url('./assets/flower.jpg');*/
+    background-image: url("../src/assets/flower.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.prueba{
+    color: rgb(4, 4, 4);
+}
